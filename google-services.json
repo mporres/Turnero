@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324532936028",
+    "firebase_url": "https://open-sayges.firebaseio.com",
+    "project_id": "open-sayges",
+    "storage_bucket": "open-sayges.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324532936028:android:214ae274d866a3e7",
+        "android_client_info": {
+          "package_name": "com.cumbresoft.opensayges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324532936028-ivsdk13l6sn5e2srk4njfmb1k0pestki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmaqiG5kcYQOWTEwDnDHix30ZhzRsLII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324532936028-ivsdk13l6sn5e2srk4njfmb1k0pestki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
